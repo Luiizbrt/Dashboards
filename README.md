@@ -1,4 +1,4 @@
-# Dashboard de Vendas – E-commerce 2025
+![Dashboard de Vendas 2025](./preview.png)
 
 Este projeto apresenta um **dashboard interativo de análise de vendas** criado no **Tableau**, com base em um dataset simulado de um varejo online.  
 O objetivo é visualizar indicadores importantes de performance comercial e comportamento do cliente ao longo de 2025.
